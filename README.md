@@ -1,6 +1,3 @@
-### `README.md`
-
-```markdown
 # Witness Fracture 🕯️  
 *A Forensic Linguistic Framework for Detecting Narcissistic Manipulation in High-Conflict Divorce*
 
@@ -87,6 +84,5 @@ Use the 8-page split in:
 
 > “Language is not just data—it is testimony.”  
 > — *The Fold Within*
-```
 
 ---
