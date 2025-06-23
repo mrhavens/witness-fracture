@@ -13,9 +13,9 @@
     "rid": "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex",
     "peer_id": "z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz"
   },
-  "commit": "8766707",
-  "tree_hash": "7d37a84c3b079a395ae41db86054411b474ccc5c",
-  "timestamp": "2025-06-23T19:05:09Z",
+  "commit": "ed313f3",
+  "tree_hash": "1759a468ede25fc52491bde087817727bfd046fe",
+  "timestamp": "2025-06-23T19:06:05Z",
   "synced_cycles": 0,
   "gpg_signatures": [
     {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
