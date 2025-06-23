@@ -23,3 +23,7 @@
   Diff Summary:
      .gitfield/gitlab.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 59 insertions(+)
+[2025-06-23T19:27:45Z] Bitbucket: https://bitbucket.org/thefoldwithin/witness-fracture, Branch=master, Commit=ed313f3
+  Diff Summary:
+     .gitfield/bitbucket.sigil.md | 59 ++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
