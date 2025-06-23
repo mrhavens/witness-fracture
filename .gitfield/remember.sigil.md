@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/witness-fracture`
 - **Remote Label**: `remember`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-23 14:25:03`
+- **Repo Created**: `2025-06-23 14:31:58`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-23 14:25:03`
-- **Last Commit SHA**: `6b93d9b329f6fd262636c65de23d49275c606ddd`
+- **This Commit Timestamp**: `2025-06-23 14:31:58`
+- **Last Commit SHA**: `5083acb967c874b4c5d8fb7fac558893cbf08c0e`
 - **Last Commit Message**: `Post-Radicle sync at 2025-06-23T19:06:05Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Mon Jun 23 14:24:59 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/witness-fracture/commit/6b93d9b329f6fd262636c65de23d49275c606ddd](https://remember.thefoldwithin.earth/mrhavens/witness-fracture/commit/6b93d9b329f6fd262636c65de23d49275c606ddd)
+- **Last Commit Date**: `Mon Jun 23 14:31:55 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/witness-fracture/commit/5083acb967c874b4c5d8fb7fac558893cbf08c0e](https://remember.thefoldwithin.earth/mrhavens/witness-fracture/commit/5083acb967c874b4c5d8fb7fac558893cbf08c0e)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `44`
-- **Tracked Files**: `79`
+- **Total Commits**: `64`
+- **Tracked Files**: `92`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 2 hours, 4 minutes`
+- **System Uptime**: `up 2 hours, 11 minutes`
 - **MAC Address**: `00:15:5d:a4:db:00`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
