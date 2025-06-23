@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "witness-fracture",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/witness-fracture",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/witness-fracture",
+  "sameAs": [
+    "https://github.com/mrhavens/witness-fracture",
+    "https://gitlab.com/mrhavens/witness-fracture",
+    "https://bitbucket.org/thefoldwithin/witness-fracture",
+    "https://remember.thefoldwithin.earth/mrhavens/witness-fracture",
+    "https://codeberg.org/mrhavens/witness-fracture",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-23T19:06:05Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
